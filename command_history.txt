@@ -1,0 +1,9 @@
+/reload
+/kubejs generate-typings
+/reload
+/morejd
+/reload
+/summon minecraft:villager
+/kubejs hand
+/reload
+/kill @e[type=minecraft:villager]
